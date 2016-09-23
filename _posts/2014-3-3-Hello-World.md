@@ -1,9 +1,13 @@
 ---
-layout: post
+layout: NYC MTA DATA
 title: You're up and running!
 ---
 
 Hello world Blog post! Check it out.
+
+```
+THIS IS CODE
+```
 
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
