@@ -3,11 +3,8 @@ layout: NYC MTA DATA
 title: You're up and running!
 ---
 
-Hello world Blog post! Check it out.
+Today we are going to work with the NYC MTA transit turnstile data. We will pull down the data from the MTA
 
-```
-THIS IS CODE
-```
 
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
