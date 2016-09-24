@@ -3,7 +3,7 @@ layout: NYC MTA DATA
 title: You're up and running!
 ---
 
-Today we are going to work with the NYC MTA transit turnstile data. We will pull down the data from the MTA
+Today we are going to work with the NYC MTA transit turnstile data. We will pull down the data from the MTA website locate here <link>. To do this we will write a function in Python to pull down several weeks of this data so we can look at trends in the data.
 
 
 
